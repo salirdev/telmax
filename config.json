@@ -1,16 +1,14 @@
 {
     "status": true,
-    "version": "1.0.0",
+    "version": "1.2.0",
     "new_features": "\u062d\u0644 \u0645\u0634\u06a9\u0644\u0627\u062a",
-    "download_link": "https://github.com/2dust/v2rayNG/releases/download/1.8.22/v2rayNG_1.8.22.apk",
+    "download_link": "https://github.com/salirdev/telmax/releases/download/v1.2.0/Android-Release.1.2.0.apk",
     "count": 33,
     "ads": {
         "img": "https://files.rtl-theme.com/products/content/2021/04/15133_7efe6b7a42920bcc0fba0a076.gif",
         "link": "https://rtl-theme.com/?aff=alirezanemati"
     },
     "configs": [
-        "https://t.me/proxy?server=91.107.243.37&port=888&secret=7td9tD7jch8Py0Ck_2O1zSdtZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-        "https://t.me/proxy?server=91.107.155.175&port=888&secret=7td9tD7jch8Py0Ck_2O1zSdtZWRpYS5zdGVhbXBvd2VyZWQuY29t",
         "https://t.me/proxy?server=iran.zibayi.shop.&port=888&secret=7gwwYoISy716xRkTAgVSXRVpYS5zdGVhbXBvd2VyZWQuY29t",
         "https://t.me/proxy?server=BodoBodo.khoshghovar.online.&port=888&secret=7gwwYoISy716xRkTAgVSXRVpYS5zdGVhbXBvd2VyZWQuY29t",
         "https://t.me/proxy?server=www.newtcpconnectiodo.store&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d",
@@ -41,6 +39,8 @@
         "https://t.me/proxy?server=newdomain1.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
         "https://t.me/proxy?server=kheybar.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
         "https://t.me/proxy?server=chernobill.technote.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-        "https://t.me/proxy?server=ryzen-gold.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+        "https://t.me/proxy?server=ryzen-gold.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+        "https://t.me/proxy?server=Iphone-windows.bozorgavar-game.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+        "https://t.me/proxy?server=net-meli.bozorgavar-game.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
     ]
 }
